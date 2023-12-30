@@ -4,7 +4,7 @@ Oie, o Gabriel
 
 !Anurag's GitHub stats
 
-
+https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&bg_color=00000000
 Aprendendo
 <div style="display: inline_block"><br>
  <img alt= "JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
