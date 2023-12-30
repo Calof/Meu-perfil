@@ -2,7 +2,7 @@ Oie, o Gabriel
 🌱Estou iniciando minha jornada na area de programação
 📚 No momento estou estudando Analise e Desenvolvimento de Sistemas.💞
 
-!Anurag's GitHub stats
+https://github-readme-stats.vercel.app/api?username=Calof&show_icons=true&bg_color=00000000
 
 
 Aprendendo
